@@ -1,0 +1,14 @@
+nav{
+    box-shadow: gray -3px 20px 19px -13px;
+    z-index: 2;
+}
+
+.active{
+    background-color: darkred;
+    border-radius: 5px;
+    color: #fff !important;
+}
+
+.active a{
+    color: #fff !important;
+}
